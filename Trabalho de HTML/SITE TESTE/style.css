@@ -1,0 +1,31 @@
+
+
+h4{
+    color: rgb(4, 226, 255);
+    transition: cubic-bezier(0.55, 0.085, 0.68, 0.53);
+}
+
+h4:hover {
+color: rgba(0, 255, 55, 0.8);
+transition: 0.5s;
+}
+
+#email{
+    text-align: center;
+    
+}
+
+#Formário{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(4, 33, 255);
+    width: 100%;
+    padding:10px;
+    background-color: chartreuse;
+    
+
+}
+#Formário :hover{
+    color: rgb(255, 55, 0);
+    transition: 0.5s;
+}
